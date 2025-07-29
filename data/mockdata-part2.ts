@@ -1,0 +1,31 @@
+export const albumsPart2 = [
+  {
+    id: 'rb-cl-2007',
+    persona: 'Raw B',
+    title: 'Cunning Linguist',
+    year: 2007,
+    coverArt: 'https://f4.bcbits.com/img/a3476821325_16.jpg',
+    embedUrl: 'https://bandcamp.com/EmbeddedPlayer/album=3364835604/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/',
+    embedHeight: '120px',
+    albumPurchaseUrl: 'https://therawb.bandcamp.com/album/cunning-linguist',
+    tracks: [
+        { id: 'rb-cl-2007-t01', title: 'intro', duration: '0:58' },
+        { id: 'rb-cl-2007-t02', title: "don't be shy", duration: '3:50' },
+        { id: 'rb-cl-2007-t03', title: 'tribute featuring Slyricist', duration: '3:11' },
+        { id: 'rb-cl-2007-t04', title: 'ravenous', duration: '2:55' },
+        { id: 'rb-cl-2007-t05', title: 'bust you out', duration: '3:36' },
+        { id: 'rb-cl-2007-t06', title: 'script flipper', duration: '3:28' },
+        { id: 'rb-cl-2007-t07', title: 'stick-up/our damn thing featuring Shy Eazy', duration: '4:12' },
+        { id: 'rb-cl-2007-t08', title: 'tonight featuring Shy Eazy', duration: '2:38' },
+        { id: 'rb-cl-2007-t09', title: 'i bet she do featuring Shy Eazy', duration: '3:55' },
+        { id: 'rb-cl-2007-t10', title: 'still hot', duration: '4:00' },
+        { id: 'rb-cl-2007-t11', title: 'cunning linguist', duration: '4:21' },
+        { id: 'rb-cl-2007-t12', title: 'higher featuring Shy Eazy', duration: '3:15' },
+        { id: 'rb-cl-2007-t13', title: 'ascendance/ouch featuring Shy Eazy', duration: '7:08' },
+        { id: 'rb-cl-2007-t14', title: 'squat and gobble/ize on the prize', duration: '4:29' },
+        { id: 'rb-cl-2007-t15', title: "comin' equipped featuring Shy Eazy", duration: '3:39' },
+        { id: 'rb-cl-2007-t16', title: 'take advantage featuring Shy Eazy', duration: '3:50' },
+        { id: 'rb-cl-2007-t17', title: 'confessions of a broken man', duration: '3:40' },
+        { id: 'rb-cl-2007-t18', title: 'feel it', duration: '4:47' }
+    ]
+  },
