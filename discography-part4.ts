@@ -1,0 +1,60 @@
+export const discographyPart4 = [
+  {
+    title: "Tabula Rasa",
+    artist: "Dookie Trackshoes",
+    year: 2016,
+    coverUrl: "https://f4.bcbits.com/img/a2457008833_2.jpg",
+    streamingUrl: "https://therawb.bandcamp.com/album/dookie-trackshoes-presents-tabula-rasa",
+    amazonUrl: "https://amazon.com/music/player/albums/B0DD4XBPRC?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_wAZKgKqFWkvQmYvJGCZNlHmRo",
+    tracks: [
+      { number: 1, title: "dookie", duration: "03:27" },
+      { number: 2, title: "superbad", duration: "03:01" },
+      { number: 3, title: "frivolity", duration: "04:00" },
+      { number: 4, title: "i can", duration: "01:34" },
+      { number: 5, title: "you can't", duration: "03:55" },
+      { number: 6, title: "keep it at the playground", duration: "03:56" },
+      { number: 7, title: "get down", duration: "01:32" },
+      { number: 8, title: "the needles eye", duration: "03:42" },
+      { number: 9, title: "meraki", duration: "03:17" },
+      { number: 10, title: "alright", duration: "02:11" },
+      { number: 11, title: "the Spokanthem", duration: "03:41" },
+      { number: 12, title: "spoken word murderer", duration: "03:25" },
+      { number: 13, title: "if you don't already know", duration: "01:55" },
+      { number: 14, title: "nickel and dime", duration: "04:40" },
+      { number: 15, title: "the invitation", duration: "02:37" },
+      { number: 16, title: "hard as f*ck", duration: "05:18" },
+      { number: 17, title: "it's on me", duration: "05:05" },
+      { number: 18, title: "D.Y.P.O.", duration: "03:32" },
+      { number: 19, title: "sugar rush", duration: "03:52" },
+      { number: 20, title: "walkaway", duration: "04:44" },
+      { number: 21, title: "the weight of my touch", duration: "04:07" },
+      { number: 22, title: "happiness takes practice", duration: "03:30" },
+      { number: 23, title: "my legacy", duration: "02:44" },
+      { number: 24, title: "the datachi experiment", duration: "04:45" },
+      { number: 25, title: "when doves cry (a tribute to Cory Michael Moss)", duration: "04:04" }
+    ]
+  },
+  {
+    title: "Volume One",
+    artist: "Mr Sletner",
+    year: 2020,
+    coverUrl: "https://f4.bcbits.com/img/a1601795157_2.jpg",
+    streamingUrl: "https://therawb.bandcamp.com/album/mr-sletner",
+    amazonUrl: "https://amazon.com/music/player/albums/B0DCZYS6BD?marketplaceId=ATVPDKIKX0DER&musicTerritory=US&ref=dm_sh_BD8j6XoSG1iEGtD5doKNZw4BG",
+    tracks: [
+      { number: 1, title: "preface", duration: "03:34" },
+      { number: 2, title: "consent", duration: "03:23" },
+      { number: 3, title: "bassix", duration: "03:40" },
+      { number: 4, title: "state of emergency", duration: "05:29" },
+      { number: 5, title: "breakfast", duration: "03:31" },
+      { number: 6, title: "joyride", duration: "04:22" },
+      { number: 7, title: "rock you/friction", duration: "05:56" },
+      { number: 8, title: "distinguished malaise", duration: "01:48" },
+      { number: 9, title: "predetermination", duration: "03:11" },
+      { number: 10, title: "BOB", duration: "02:08" },
+      { number: 11, title: "she said", duration: "05:58" },
+      { number: 12, title: "Raw Sonata/hedonism", duration: "09:32" },
+      { number: 13, title: "coda", duration: "03:15" }
+    ]
+  }
+];
